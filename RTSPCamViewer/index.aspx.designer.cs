@@ -11,7 +11,7 @@ namespace RTSPCamViewer
 {
 
 
-    public partial class ReadJsonFile
+    public partial class index
     {
 
         /// <summary>
